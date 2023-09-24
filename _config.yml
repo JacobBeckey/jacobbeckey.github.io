@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jacob Beckey"
   avatar           : "https://jacobbeckey.github.io/images/headshot.jpg"
-  bio              : "Quantum Information Theory PhD candidate at Univ. of Colorado, Boulder"
+  bio              : "Quantum Information Theory PhD Candidate"
   location         : #"Boulder, CO"
-  employer         : #"University of Colorado, Boulder"
+  employer         : "University of Colorado, Boulder"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OoGGmYwAAAAJ&hl=en"
   email            : "Jacob.Beckey@colorado.edu"
