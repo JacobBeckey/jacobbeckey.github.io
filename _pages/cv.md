@@ -15,30 +15,25 @@ Education
 * B.S. Physics and Mathematics, Clarion University of Pennsylvania, May 2018
 * MRes Translational Quantum Technology, University of Birmingham, July 2020
 	* Advisors: Haixing Miao and Vincent Boyer
-	* Thesis title: Broadband Quantum Noise Reduction in Future Long Baseline Gravitational-wave Detectors via EPR Entanglement and The Quantum Limits of Beam Displacement Measurements. [Download Thesis](/files/jbeckey-mres-thesis.pdf){: .btn--research} 
+	* Thesis title: Broadband Quantum Noise Reduction in Future Long Baseline Gravitational-wave Detectors via EPR Entanglement and The Quantum Limits of Beam Displacement Measurements. 
+	[Download Thesis](/files/jbeckey-mres-thesis.pdf){: .btn--research} 
 * Ph.D Physics, University of Colorado, Boulder, May 2024 (expected)
 	* Advisor: Graeme Smith
+	* Thesis title: Some problems in quantum estimation theory and entanglement theory
 
-Work experience
+Publications
+======
+* High level summaries of my publications can be found [here](publications.md)
+* Alternatively, my papers can be found on [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Beckey,+J+L) and [Google Scholar](https://scholar.google.com/citations?user=OoGGmYwAAAAJ&hl=en)
+
+Funding Highlights
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  Outreach Highlights
 
 Publications
 ======
@@ -57,7 +52,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
