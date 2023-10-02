@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+Below is an abbreviated CV, please click [here](/files/cv-oct-23.pdf){: .btn--research} to access my complete, updated CV. 
 
 Education
 ======
-* B.S. Physics and Mathematics, Clarion University of Pennsylvania, 2018
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Physics and Mathematics, Clarion University of Pennsylvania, May 2018
+* MRes Translational Quantum Technology, University of Birmingham, July 2020
+* Ph.D Physics, University of Colorado, Boulder, May 2024 (expected)
 
 Work experience
 ======
