@@ -14,7 +14,10 @@ Education
 ======
 * B.S. Physics and Mathematics, Clarion University of Pennsylvania, May 2018
 * MRes Translational Quantum Technology, University of Birmingham, July 2020
+	* Advisors: Haixing Miao and Vincent Boyer
+	* Thesis title: Broadband Quantum Noise Reduction in Future Long Baseline Gravitational-wave Detectors via EPR Entanglement and The Quantum Limits of Beam Displacement Measurements. [Download Thesis](/files/jbeckey-mres-thesis.pdf){: .btn--research} 
 * Ph.D Physics, University of Colorado, Boulder, May 2024 (expected)
+	* Advisor: Graeme Smith
 
 Work experience
 ======
