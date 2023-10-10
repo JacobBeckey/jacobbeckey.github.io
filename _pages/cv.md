@@ -23,7 +23,7 @@ Education
 	
 Funding Highlights
 ======
-* Department of Energy Office of Science Graduate Research Fellowship ([DOE SCGSR](https://science.osti.gov/wdts/scgsr))
+* U.S. Department of Energy Office of Science Graduate Research Fellowship ([DOE SCGSR](https://science.osti.gov/wdts/scgsr))
 * National Science Foundation Graduate Research Fellowship ([NSF GRFP](https://www.nsfgrfp.org/))
 * [Fulbright](https://www.fulbright.org.uk/) -- University of Birmingham Postgraduate Award 
 
