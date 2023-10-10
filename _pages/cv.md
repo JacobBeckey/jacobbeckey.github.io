@@ -20,36 +20,14 @@ Education
 * Ph.D Physics, University of Colorado, Boulder, May 2024 (expected)
 	* Advisor: Graeme Smith
 	* Thesis title: Some problems in quantum estimation theory and entanglement theory
-
-Publications
-======
-* High level summaries of my publications can be found [here](publications.md)
-* Alternatively, my papers can be found on [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Beckey,+J+L) and [Google Scholar](https://scholar.google.com/citations?user=OoGGmYwAAAAJ&hl=en)
-
+	
 Funding Highlights
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-  Outreach Highlights
+* Department of Energy Office of Science Graduate Research Fellowship (DOE SCGSR)
+* National Science Foundation Graduate Research Fellowship (NSF GRFP)
+* Fulbright -- University of Birmingham Postgraduate Award 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+* My papers can be found on [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Beckey,+J+L) and [Google Scholar](https://scholar.google.com/citations?user=OoGGmYwAAAAJ&hl=en)
+* High level summaries of my publications can be found [here](publications.md)
